@@ -1,0 +1,14 @@
+- 실행방법 
+프로젝트 파일을 zip으로 압축(impot하여 실행)
+
+- 기술 스텍
+1. Back-End Framework : Spring Boot
+2. Front-End Framework : JSP
+3. DBMS : 파일입출력
+
+- 구현 기능
+1. 회원가입 기능
+2. 로그인 기능
+3. 상품 구매 기능 ( 결제기능은 가상으로 처리 )
+4. 구매이력 조회
+5. 상품개수는 10개 이내로
